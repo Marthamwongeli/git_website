@@ -1,0 +1,161 @@
+.container{
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+
+.header{
+    position: relative;
+    overflow: hidden;
+    
+}
+#navbar{
+    border: solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+
+}
+#info{
+    display: flex;
+    gap: 500px;
+}
+#email{
+    text-align: left;
+    width: 50%;
+}
+#contact{
+    text-align: right;
+}
+.topnav{
+    display: flex;
+    gap: 170px;
+    font-size: 25px;
+}
+#image{
+    object-fit: cover;
+
+}
+.row{
+    display: flex;
+    justify-content: center;
+    gap:200px;
+
+}
+#textblock{
+    float: inline-start;
+}
+.column2{
+    float:right;
+}
+.icons{
+    display: flex;
+    gap: 70px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+
+
+}
+#pack{
+    margin-top: 80px;
+    align-items: center;
+}
+#store{
+    margin-top: 160px;
+    float: left;
+}
+#transport{
+    margin-top: 160px;
+    float: left;
+}
+#insurance{
+    margin-top: 100px;
+    float: left;
+}
+.row2{
+    display: flex;
+    justify-content: center;
+    gap: 50;
+}
+.content3{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.image2{
+    display: flex;
+    justify-content: center;
+    
+}.content4{
+    display: block;
+    justify-content: space-around;
+    gap: 100px;
+}
+#testimonials{
+    display: flex;
+    text-align: center;
+    gap: 100px;
+}
+#content5{
+    display: block;
+    justify-content: center;
+}
+.footer{ 
+    display: flex;
+    margin-bottom: 200px;
+
+    
+}
+.footer2{
+    text-align: justify;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 200px;
+    gap: 50px;
+    display: flex;
+    gap:60px;
+    border: 1px;
+    background-color:black;
+    color: antiquewhite;
+    height: 250px;
+    padding:35px ;
+    margin-left: 7%;
+    margin-right: 7%;
+    height: 250px;
+    
+
+    
+
+
+}
+.footerheading{
+    text-align: center;
+    background-color: yellow;
+}
+.explore{
+    display: block;
+
+}
+.legal{
+    display: block;
+}
+
+
+
+
+
+
+
+
+    
+    
+
+
